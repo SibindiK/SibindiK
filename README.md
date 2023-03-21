@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SibindiK
 - 👀 I’m interested in C++, Python, R, Java
-- 🌱 I’m currently learning Test Driven Development 
 - 📫 How to reach me: kermit_sibindi@live.com
 
 <!---
